@@ -1,3 +1,4 @@
+# Author : Nguyen Vu Xuan Kien | 17/02/2004 | Email : nguyenvxkien@gmail.com
 import tkinter as tk
 from tkinter import ttk
 import speedtest
